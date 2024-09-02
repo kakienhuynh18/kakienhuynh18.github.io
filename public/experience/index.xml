@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on </title>
+    <link>http://localhost:1313/experience/</link>
+    <description>Recent content in Experiences on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Full-stack Developer</title>
+      <link>http://localhost:1313/experience/008.atos-rijkswaterstaat/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/008.atos-rijkswaterstaat/</guid>
+      <description>Cloud migration from IaaS solution to PaaS solution Bij Rijkswaterstaat is de website www.rijkswaterstaat.nl door de overheid gemarkeerd als een Mission-Critical website. Dit betekent dat bij bijvoorbeeld natuurrampen de website nog draaiend moet zijn.&#xA;Ka Kien is in zijn rol verantwoordelijk geweest voor het opzetten van de Proof-of-Concept: Web Apps Migratie. Hierbij is aangetoond dat de migratie van het huidige architectuur landschap richting een PaaS-oplossing binnen Azure geen negatieve gevolgen heeft.</description>
+    </item>
+    <item>
+      <title>PowerApps Developer</title>
+      <link>http://localhost:1313/experience/007.cegeka-internal/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/007.cegeka-internal/</guid>
+      <description>Internal Event Registration App Voor een interne event vanuit Cegeka kunnen zowel interne medewerkers als externe klanten zich aanmelden. Op de dag zelf komen sprekers langs met ieder een beperkt aantal capaciteit in de ruimte. De vraag is aan Ka Kien gesteld om hiervoor een tool op korte termijn in elkaar te zetten wat hier aan voldoet.&#xA;Ka Kien heeft hiervoor een PowerApp Event Registration tool ontwikkeld. Deze low-code oplossing is volledig low-code en herbruikbaar voor meerdere events.</description>
+    </item>
+    <item>
+      <title>Full-stack Developer</title>
+      <link>http://localhost:1313/experience/006.cegeka-afm/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/006.cegeka-afm/</guid>
+      <description>First try at front-end development Ka Kien is in zijn rol als Full-stack Developer bij het AFM mede verantwoordelijk geweest voor het doorontwikkelen van het AFM-portaal binnen 3 teams van 6 - 9 personen. Ka Kien heeft hierbij bijgedragen aan de front-end ontwikkeling in Angular. Verder heeft hij CI/CD pipelines opgezet voor de cloud-native integratieoplossingen binnen Azure.&#xA;Ka Kien is verantwoordelijk geweest voor:&#xA;CI/CD opzetten met behulp van ARM en Bicep Azure function ontwikkelen om documenten op te halen en op te slaan in SharePoint Integreren nieuwe service in Azure API Management Opzetten Hybrid connections voor Azure Functions t.</description>
+    </item>
+    <item>
+      <title>Back-end Developer</title>
+      <link>http://localhost:1313/experience/005.avanade-pwn/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/005.avanade-pwn/</guid>
+      <description>Back end development work Ka Kien is binnen een team van 4 ontwikkelaars verantwoordelijk voor het beheer van de gehele Enterprise Service Bus (ESB) oplossing. Hierbij is hij mede-verantwoordelijk geweest voor het migreren van de on-premise integraties richting Cloud Native oplossingen binnen Azure.&#xA;De oplossing bestaat uit twee delen: event-driven en api-driven. De event-driven integraties worden gebruikt voor services waar fire-and-forget van toepassing is. Voor de rest zijn de integraties SOAP of Restfull-API&amp;rsquo;s.</description>
+    </item>
+    <item>
+      <title>PowerApps Developer</title>
+      <link>http://localhost:1313/experience/004.avanade-dll/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/004.avanade-dll/</guid>
+      <description>Created a rate card generator Ka Kien is in zijn rol als PowerApps developer bij DLL verantwoordelijk geweest voor het opzetten van een Rate Card Generator. DLL leent geld uit tegen rente. Achter de rentebepaling zit een complex formule om te berekenen wat de optimale rentepercentage is. Dit kan van factoren hangen waaronder: het bedrag, de duur, eurokoers etc.&#xA;In zijn rol heeft Ka Kien de functionele requirements van de business owner opgesteld en vertaald naar technische requirements.</description>
+    </item>
+    <item>
+      <title>Aanlyst</title>
+      <link>http://localhost:1313/experience/003.avanade-veon/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/003.avanade-veon/</guid>
+      <description>Streamlining IT processes at Veon Customer Satisfaction Report Generator: Ka Kien has created a Customer Satisfaction App for ITSupport. This allows the user who comes with a problem to provide their satisfaction as feedback. Linked to this is a report generator that triggers once a week to retrieve the satisfaction of the past week for the weekly meeting between the manager and the director.&#xA;Invoice Approval System: Designed an invoice approval system for the Procurement team.</description>
+    </item>
+    <item>
+      <title>PowerBI Developer</title>
+      <link>http://localhost:1313/experience/002.avanade-essent/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/002.avanade-essent/</guid>
+      <description>PowerBI Dashboard on Scrum team I developed a PowerBI Dashboard for the internal Scrum team to provide insights into the lead time of tasks.</description>
+    </item>
+    <item>
+      <title>Virtual Reality Developer</title>
+      <link>http://localhost:1313/experience/001.avanade-vr/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/001.avanade-vr/</guid>
+      <description>Graduation internship on the efficiency of Virtual Reality as a replacement of a training manual As part of my graduation thesis, I conducted research into the effectiveness of a Virtual Reality training compared to a manual. An IKEA manual was used as an example. For this, I developed a training in Virtual Reality to replace the IKEA manual. A/B user testing was performed on this to compare the results. Furthermore, it was also examined whether Text-to-Speech has an effect on the effectiveness.</description>
+    </item>
+  </channel>
+</rss>
