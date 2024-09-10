@@ -6,63 +6,42 @@
     <description>Recent content in Experiences on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Full-stack Developer</title>
-      <link>http://localhost:1313/experience/008.atos-rijkswaterstaat/</link>
+      <link>http://localhost:1313/experience/vanlanschot/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/vanlanschot/</guid>
+      <description>Migrating and integration of Onboarding Flows Lorem ipsum dolor</description>
+    </item>
+    <item>
+      <title>IT Consultant</title>
+      <link>http://localhost:1313/experience/atos/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/008.atos-rijkswaterstaat/</guid>
-      <description>Cloud migration from IaaS solution to PaaS solution Bij Rijkswaterstaat is de website www.rijkswaterstaat.nl door de overheid gemarkeerd als een Mission-Critical website. Dit betekent dat bij bijvoorbeeld natuurrampen de website nog draaiend moet zijn.&#xA;Ka Kien is in zijn rol verantwoordelijk geweest voor het opzetten van de Proof-of-Concept: Web Apps Migratie. Hierbij is aangetoond dat de migratie van het huidige architectuur landschap richting een PaaS-oplossing binnen Azure geen negatieve gevolgen heeft.</description>
+      <guid>http://localhost:1313/experience/atos/</guid>
+      <description>Cloud migration from IaaS solution to PaaS solution At Rijkswaterstaat, the website www.rijkswaterstaat.nl has been marked by the government as a Mission-Critical website. This means that in the event of natural disasters, for example, the website must still be operational.&#xA;In my role I was responsible for setting up the Proof-of-Concept: Web Apps Migration. This demonstrated that the migration of the current architecture landscape towards a PaaS solution within Azure has no negative consequences that cannot be mitigated.</description>
     </item>
     <item>
-      <title>PowerApps Developer</title>
-      <link>http://localhost:1313/experience/007.cegeka-internal/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/007.cegeka-internal/</guid>
-      <description>Internal Event Registration App Voor een interne event vanuit Cegeka kunnen zowel interne medewerkers als externe klanten zich aanmelden. Op de dag zelf komen sprekers langs met ieder een beperkt aantal capaciteit in de ruimte. De vraag is aan Ka Kien gesteld om hiervoor een tool op korte termijn in elkaar te zetten wat hier aan voldoet.&#xA;Ka Kien heeft hiervoor een PowerApp Event Registration tool ontwikkeld. Deze low-code oplossing is volledig low-code en herbruikbaar voor meerdere events.</description>
-    </item>
-    <item>
-      <title>Full-stack Developer</title>
-      <link>http://localhost:1313/experience/006.cegeka-afm/</link>
+      <title>IT Consultant</title>
+      <link>http://localhost:1313/experience/cegeka/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/006.cegeka-afm/</guid>
-      <description>First try at front-end development Ka Kien is in zijn rol als Full-stack Developer bij het AFM mede verantwoordelijk geweest voor het doorontwikkelen van het AFM-portaal binnen 3 teams van 6 - 9 personen. Ka Kien heeft hierbij bijgedragen aan de front-end ontwikkeling in Angular. Verder heeft hij CI/CD pipelines opgezet voor de cloud-native integratieoplossingen binnen Azure.&#xA;Ka Kien is verantwoordelijk geweest voor:&#xA;CI/CD opzetten met behulp van ARM en Bicep Azure function ontwikkelen om documenten op te halen en op te slaan in SharePoint Integreren nieuwe service in Azure API Management Opzetten Hybrid connections voor Azure Functions t.</description>
+      <guid>http://localhost:1313/experience/cegeka/</guid>
+      <description>First try at front-end development In my role as Full-stack Developer at the AFM, I was partly responsible for the further development of the AFM portal within 3 teams of 6 - 9 people. I contributed to the front-end development in Angular. I also set up CI/CD pipelines for the cloud-native integration solutions within Azure.&#xA;I was responsible for:&#xA;Setting up CI/CD using ARM and Bicep Developing an Azure function to retrieve and save documents in SharePoint Integrating a new service in Azure API Management Setting up Hybrid connections for Azure Functions for connection with SharePoint on-premise Knowledge sharing sessions within the 3 development teams Expanding the front-end portal with new functionality Internal Event Registration App For an internal event from Cegeka, both internal employees and external customers can register.</description>
     </item>
     <item>
-      <title>Back-end Developer</title>
-      <link>http://localhost:1313/experience/005.avanade-pwn/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/005.avanade-pwn/</guid>
-      <description>Back end development work Ka Kien is binnen een team van 4 ontwikkelaars verantwoordelijk voor het beheer van de gehele Enterprise Service Bus (ESB) oplossing. Hierbij is hij mede-verantwoordelijk geweest voor het migreren van de on-premise integraties richting Cloud Native oplossingen binnen Azure.&#xA;De oplossing bestaat uit twee delen: event-driven en api-driven. De event-driven integraties worden gebruikt voor services waar fire-and-forget van toepassing is. Voor de rest zijn de integraties SOAP of Restfull-API&amp;rsquo;s.</description>
-    </item>
-    <item>
-      <title>PowerApps Developer</title>
-      <link>http://localhost:1313/experience/004.avanade-dll/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/004.avanade-dll/</guid>
-      <description>Created a rate card generator Ka Kien is in zijn rol als PowerApps developer bij DLL verantwoordelijk geweest voor het opzetten van een Rate Card Generator. DLL leent geld uit tegen rente. Achter de rentebepaling zit een complex formule om te berekenen wat de optimale rentepercentage is. Dit kan van factoren hangen waaronder: het bedrag, de duur, eurokoers etc.&#xA;In zijn rol heeft Ka Kien de functionele requirements van de business owner opgesteld en vertaald naar technische requirements.</description>
-    </item>
-    <item>
-      <title>Aanlyst</title>
-      <link>http://localhost:1313/experience/003.avanade-veon/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/003.avanade-veon/</guid>
-      <description>Streamlining IT processes at Veon Customer Satisfaction Report Generator: Ka Kien has created a Customer Satisfaction App for ITSupport. This allows the user who comes with a problem to provide their satisfaction as feedback. Linked to this is a report generator that triggers once a week to retrieve the satisfaction of the past week for the weekly meeting between the manager and the director.&#xA;Invoice Approval System: Designed an invoice approval system for the Procurement team.</description>
-    </item>
-    <item>
-      <title>PowerBI Developer</title>
-      <link>http://localhost:1313/experience/002.avanade-essent/</link>
+      <title>IT Analyst</title>
+      <link>http://localhost:1313/experience/avanade/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/002.avanade-essent/</guid>
-      <description>PowerBI Dashboard on Scrum team I developed a PowerBI Dashboard for the internal Scrum team to provide insights into the lead time of tasks.</description>
+      <guid>http://localhost:1313/experience/avanade/</guid>
+      <description>Life at Avanade After graduating I started my career at Avanade as an IT Analyst. I have performed a wide variety of tasks and roles during my time at Avanade.&#xA;Gaining Insights on Scrum Team using PowerBI For Essent (Dutch Utility Company) I have developed a PowerBI Dashboard to provide insights into the lead time of tasks of the internal scrum team. This is used by the management for gaining insights into which tasks have a long lead time.</description>
     </item>
     <item>
-      <title>Virtual Reality Developer</title>
-      <link>http://localhost:1313/experience/001.avanade-vr/</link>
+      <title>IT Graduation Intern</title>
+      <link>http://localhost:1313/experience/avanade-intern/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/001.avanade-vr/</guid>
-      <description>Graduation internship on the efficiency of Virtual Reality as a replacement of a training manual As part of my graduation thesis, I conducted research into the effectiveness of a Virtual Reality training compared to a manual. An IKEA manual was used as an example. For this, I developed a training in Virtual Reality to replace the IKEA manual. A/B user testing was performed on this to compare the results. Furthermore, it was also examined whether Text-to-Speech has an effect on the effectiveness.</description>
+      <guid>http://localhost:1313/experience/avanade-intern/</guid>
+      <description>Graduation internship on the efficiency of Virtual Reality as a replacement of a training manual As part of my graduation thesis, I conducted research into the effectiveness of a Virtual Reality training compared to the picturestique manual. For this, I took a simple bookcase from IKEA for the project. The whole instruction manual was analyzed and made into the Virtual Reality training.&#xA;For the training, I made use of the fact that in a VR world you can see animations.</description>
     </item>
   </channel>
 </rss>
