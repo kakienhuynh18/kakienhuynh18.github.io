@@ -40,10 +40,10 @@ theme = "adritian-free-hugo-theme"
   URL = "#experience"
   weight = 4
 
- # [[menu.header]]
- # name = "Blog"
- # URL = "/blog"
- # weight = 5
+  [[menu.header]]
+  name = "Blog"
+  URL = "/blog"
+  weight = 5
 
   [[menu.header]]
   name = "Contact"
@@ -65,6 +65,8 @@ theme = "adritian-free-hugo-theme"
   URL = "#contact"
   weight = 4
 
+[markup.goldmark.renderer]
+unsafe= true
 
 [params]
 
