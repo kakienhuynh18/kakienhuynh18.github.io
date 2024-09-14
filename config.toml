@@ -55,9 +55,14 @@ theme = "adritian-free-hugo-theme"
   URL = "#about"
   weight = 2
 
+#  [[menu.footer]]
+#  name = "Portfolio"
+#  URL = "#portfolio"
+#  weight = 3
+
   [[menu.footer]]
-  name = "Portfolio"
-  URL = "#portfolio"
+  name = "Blog"
+  URL = "#blog"
   weight = 3
 
   [[menu.footer]]
