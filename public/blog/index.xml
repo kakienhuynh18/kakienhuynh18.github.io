@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2024 14:38:33 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 14:38:33 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Selling your ideas</title>
+      <link>http://localhost:1313/blog/selling-your-ideas/</link>
+      <pubDate>Mon, 23 Sep 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/selling-your-ideas/</guid>
+      <description>Selling your ideas in corporate When you’re in a corporate environment, communication skills are important. But what actually are these so called communication skills and how can we learn and practice these skills? The goal of my posts is to share my personal experiences with the world and my journey into learning these skills. Mostly describing the hurdles which I could and could not solve.&#xA;In corporate you have a variety of stakeholders, but how can you as a expendable software engineer create impact and sell your ideas?</description>
+    </item>
     <item>
       <title>Product Management Resources Master List</title>
       <link>http://localhost:1313/blog/pm-resoures/</link>
@@ -21,13 +28,6 @@
       <pubDate>Sun, 23 Jun 2024 14:38:33 +0200</pubDate>
       <guid>http://localhost:1313/blog/swe-resources/</guid>
       <description>On this page I will keep a list of all the resources which I find (partially) helpfull.&#xA;How to become a programmer Braydie&amp;rsquo;s github on how to become a programmer lists skills which are needed on how to make impact as a programmer. Designing Data Intensive Applications. This book is a must read if you want to build scalable applications.</description>
-    </item>
-    <item>
-      <title>Sample blog content 2</title>
-      <link>http://localhost:1313/blog/sample/</link>
-      <pubDate>Sat, 22 Jun 2024 14:38:33 +0200</pubDate>
-      <guid>http://localhost:1313/blog/sample/</guid>
-      <description>Sample blog content. Like a lorem ipsum but saying something more interesting.&#xA;Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.</description>
     </item>
   </channel>
 </rss>
