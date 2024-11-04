@@ -9,4 +9,6 @@ duration: "2024"
 ---
 ### Migrating and integration of Onboarding Flows
 
-Lorem ipsum dolor
+Ka Kien participated in the migration from one financial back-end system to another back-end system. 
+In this role, Ka Kien is responsible for:
+- Migrating two onboarding flows

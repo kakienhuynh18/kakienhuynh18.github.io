@@ -5,7 +5,7 @@ title: "IT Analyst"
 jobTitle: "IT Analyst"
 company: "Avanade"
 location: "Utrecht, The Netherlands"
-duration: "2018"
+duration: "2018-2020"
 ---
 # Life at Avanade
 
