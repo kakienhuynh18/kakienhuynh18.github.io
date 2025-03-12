@@ -5,10 +5,13 @@ title: "Full-stack Developer"
 jobTitle: "Full-stack Developer"
 company: "Van Lanschot"
 location: "Amsterdam, The Netherlands"
-duration: "2024"
+duration: "2024-2025"
 ---
 ### Migrating and integration of Onboarding Flows
 
-Ka Kien participated in the migration from one financial back-end system to another back-end system. 
-In this role, Ka Kien is responsible for:
-- Migrating two onboarding flows
+Evi van Lanschot has financial products where customers can invest money into. By acquiring another company, they got into the process of merging two products into one.
+My role here was migrating the onboarding flows from using the old financial back-end to the new one. I was also responsible for creating a new onboarding flow 
+
+I was also responsible for:
+- Implementing authentication for a seamless transfer from the portal to the onboarding flows
+- Improved user friendliness by implementing session pixel; preventing the user session from expiring

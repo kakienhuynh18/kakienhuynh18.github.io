@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-23T14:38:33+02:00</lastmod>
+    <lastmod>2024-09-29T14:38:33+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-09-23T14:38:33+02:00</lastmod>
+    <lastmod>2024-09-29T14:38:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/the-power-of-writing/</loc>
+    <lastmod>2024-09-29T14:38:33+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/selling-your-ideas/</loc>
     <lastmod>2024-09-23T14:38:33+02:00</lastmod>

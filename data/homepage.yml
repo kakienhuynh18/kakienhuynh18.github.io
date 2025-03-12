@@ -16,10 +16,15 @@ showcase:
   imageMobile:
     x: "images/showcase/showcase-mobile.jpg"
 
+  # button:
+  #   icon: "icon-mail-fill"
+  #   btnText: "Contact"
+  #   URL: "https://www.kakienhuynh.com/"
+
   button:
-    icon: "icon-mail-fill"
-    btnText: "Contact"
-    URL: "https://www.kakienhuynh.com/"
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/ka-kien-huynh-30b565111/"
 
   # socialLinks:
   #   - icon: "linkedin"
@@ -99,11 +104,11 @@ experience:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
     URL: "https://www.linkedin.com/in/ka-kien-huynh-30b565111/"
+  # button2:
+  #   icon: "icon-profile-fill"
+  #   btnText: "Download My Resume"
+  #   URL: "#"
   button2:
-    icon: "icon-profile-fill"
-    btnText: "Download My Resume"
-    URL: "#"
-  button3:
     icon: "icon-arrow-right"
     btnText: "View All"
     URL: "/experience"
